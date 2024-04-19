@@ -1,1 +1,3 @@
- # Cockroach-Foot-Nuke
+<div id="user-content-toc"><ul><summary list-style-type: none;><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cockroach.png" alt="Cockroach" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Footprints.png" alt="Footprints" width="25" height="25" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Radioactive.png" alt="Radioactive" width="25" height="25" />
+<h1>⁣Cockroach-Foot-Nuke Game</h1></summary></ul></div>
+
